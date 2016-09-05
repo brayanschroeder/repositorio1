@@ -1,3 +1,3 @@
 Leia-me padrão do GitHub.
 
-Versão 1.0;
+Versão 2.0
